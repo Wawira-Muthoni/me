@@ -1,0 +1,40 @@
+h1{
+    color: rgb(255, 127, 127);
+    font-size: 50px;
+    list-style: none;
+    display: inline;
+    float: left;
+
+}
+
+nav ul li{
+    display: inline;
+    float: right;
+    padding: 20px 60px;
+    font-size: 60px;
+    
+}
+
+ table, th, td {
+        border: solid rgb(0, 0, 0);
+        width: 800px;
+        height: 100px;
+
+
+      }
+      body{
+          background-image: url(./big\ machines.jpg);
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      footer{
+          text-align: right;
+          font-size: 30px;
+      }
+video{
+    padding-left: 20px;
+    
+}      
+    
+
+
